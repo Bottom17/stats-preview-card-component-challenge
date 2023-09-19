@@ -1,0 +1,11 @@
+.footer__attribution {
+  font-size: 11px;
+  text-align: center;
+  font-weight: 700;
+  color: var(--clr-white);
+}
+
+.footer__attribution a {
+  color: var(--clr-soft-violet);
+  font-weight: 700;
+}
