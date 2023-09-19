@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/stats-preview-card-component-solution-htmlcss-7VqOhIyrwV)
+- Live Site URL: [Live site URL](https://stats-preview-card-component-challenge-six.vercel.app/)
 
 ## My process
 
